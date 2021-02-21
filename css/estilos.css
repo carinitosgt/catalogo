@@ -30,9 +30,9 @@ header {
     height: 600px;
     background: #bc4e9c;
     /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, hsla(340, 95%, 50%, 0.459), hsla(317, 45%, 52%, 0.664)), url(../img/portada.jpg);
+    background: -webkit-linear-gradient(to right, hsla(340, 95%, 50%, 0.459), hsla(317, 45%, 52%, 0.664)), url(../img/logo.jpg);
     /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, hsla(340, 95%, 50%, 0.459), hsla(317, 45%, 52%, 0.664)), url(../img/portada.jpg);
+    background: linear-gradient(to right, hsla(340, 95%, 50%, 0.459), hsla(317, 45%, 52%, 0.664)), url(../img/logo.jpg);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     background-size: cover;
     background-attachment: fixed;
@@ -423,4 +423,88 @@ footer{
     .titulo-final{
         font-size: 20px;
     }
+}
+
+.taza{
+    color: 000000;
+    position: absolute;
+    font-size: 30px;
+    font-family: fantasy;
+    text-shadow: 7px 4px 5px blue;
+    top: 90%;
+    left: 80%;
+    transform: translate(-50%, -50%);
+  
+}
+
+.rompecabezas{
+    color: 000000;
+    position: absolute;
+    font-size: 30px;
+    font-family: fantasy;
+    text-shadow: 7px 4px 5px blue;
+    top: 90%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+  
+}
+
+.azulejo{
+    color: 000000;
+    position: absolute;
+    font-size: 30px;
+    font-family: fantasy;
+    text-shadow: 7px 4px 5px blue;
+    top: 90%;
+    left: 75%;
+    transform: translate(-50%, -50%);
+  
+}
+
+.mouse{
+    color: 000000;
+    position: absolute;
+    font-size: 30px;
+    font-family: fantasy;
+    text-shadow: 7px 4px 5px blue;
+    top: 90%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+  
+}
+
+.tarro{
+    color: 000000;
+    position: absolute;
+    font-size: 30px;
+    font-family: fantasy;
+    text-shadow: 7px 4px 5px blue;
+    top: 90%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+  
+}
+
+.playera{
+    color: 000000;
+    position: absolute;
+    font-size: 30px;
+    font-family: fantasy;
+    text-shadow: 7px 4px 5px blue;
+    top: 90%;
+    left: 25%;
+    transform: translate(-50%, -50%);
+  
+}
+
+.gabacha{
+    color: 000000;
+    position: absolute;
+    font-size: 30px;
+    font-family: fantasy;
+    text-shadow: 7px 4px 5px blue;
+    top: 90%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+  
 }
